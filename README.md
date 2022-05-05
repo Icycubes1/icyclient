@@ -6,5 +6,5 @@
 3. fps
 4. cps
 5. mods
-6. drag
-<---->
+6. drag gui
+
